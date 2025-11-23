@@ -43,3 +43,12 @@ Python is always translated into bytecode, which is a lower-level representation
 
 <img width="709" height="153" alt="image" src="https://github.com/user-attachments/assets/f46e54df-876b-426d-b488-4702f9e9cdce" />
 
+## Variables
+
+In programing, it is epecailly useful to save data for later use.  one of the best ways to do this is with a variabvle.  Lets try declaring our first varibale:
+
+```python
+name = Salvatore
+print(name)
+```
+
