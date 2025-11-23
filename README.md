@@ -10,20 +10,9 @@ A comprehensive set of study notes, rewritten examples, and custom practice prob
 
 This repository contains my personal notes, rewritten examples, and practice exercises created while taking CS-UY 1114.
 
-It follows the structure of the NYU course, covering topics such as:
+It follows the structure of the NYU course, covering the follwoing:
 
-* Variables and expressions
-* Strings
-* Conditionals
-* Loops
-* Functions
-* Lists, tuples, dictionaries
-* File input and output
-* Exception handling
-* Classes and objects
-* Basic data structures
-* Testing and debugging
-
+[Leccture 1: Introduction to Python, Variables and Data Types]{CS-UY-1114/Lecture 0: Installing Python and Choosing an IDE}
 The goal is to provide an organized, accessible, and student-friendly companion to the course material.
 
 ---
