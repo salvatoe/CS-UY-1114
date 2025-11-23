@@ -12,8 +12,9 @@ This repository contains my personal notes, rewritten examples, and practice exe
 
 It follows the structure of the NYU course, covering the follwoing:
 
-[Leccture 0: Intalling Python and an IDE](Lectures/Lecture_0/Lecture_0:_Installing_Python_and_Choosing_an_IDE)
+[Leccture 0: Intalling Python and an IDE](Lectures/Lecture_0/Lecture_0:_Installing_Python_and_Choosing_an_IDE.md)
 
+[Lecture 1: Parts of a program, Variables, Basic Data Types](CS-UY-1114/Lectures/Lecture_1/Lecture_1:_Parts_of_a program,_Variables,_Basic_Data_Types.md)
 
 
 The goal is to provide an organized, accessible, and student-friendly companion to the course material.
