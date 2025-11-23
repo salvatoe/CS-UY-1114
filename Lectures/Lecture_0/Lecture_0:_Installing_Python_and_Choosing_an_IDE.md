@@ -112,4 +112,115 @@ Most students end up using **Thonny or PyCharm**, and both are fully acceptable 
 
 [Click here to downalad Thonny for Windows](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe)
 
-**Note** Some editors may require that you configure a debugger, or that you configure an interpeter.  See editor instructions for how to do that, since every editor is cery different.  
+**Note** Some editors may require that you configure a debugger, or that you configure an interpeter.  See editor instructions for how to do that, since every editor is very different.  
+
+# **Your First Program**
+
+Now that you’ve installed Python and chosen an editor, it’s time to write your very first program.
+This will confirm:
+
+* Python is installed correctly
+* Your editor is set up
+* You know how to run a `.py` file
+
+Even if you’ve coded before, follow these steps carefully — your environment must be configured the way **CS-UY 1114** expects.
+
+---
+
+# **1. Create a New Python File**
+
+Depending on your editor:
+
+### **If You’re Using Thonny**
+
+1. Open Thonny
+2. Click **File → New**
+3. Type in the code below
+4. Save it as **hello_world.py**
+
+### **If You’re Using PyCharm**
+
+1. Open PyCharm
+2. Select **New Project** (or open an existing one)
+3. Right-click the project folder → **New → Python File**
+4. Name it:
+
+   ```
+   hello_world
+   ```
+
+You should now see an empty Python file open.
+
+---
+
+# **2. Type the Program**
+
+In your new file, enter:
+
+```python
+print("Hello, world!")
+```
+
+This is the traditional first program in almost every language.
+It demonstrates how Python outputs text to the screen.
+
+---
+
+# **3. Run the Program**
+
+### **In Thonny**
+
+Just click the **big green Run button** at the top.
+
+### **In PyCharm**
+
+You have two options:
+
+#### **Option A: Run Button**
+
+Click the **green ▶ button** next to the file name.
+
+#### **Option B: Terminal**
+
+Open PyCharm’s built-in terminal and run:
+
+```bash
+python3 hello_world.py
+```
+
+or on Windows:
+
+```powershell
+py hello_world.py
+```
+
+---
+
+# **4. Expected Output**
+
+You should see:
+
+```
+Hello, world!
+```
+
+If you see this, congratulations — your Python environment is working correctly.
+
+---
+
+# **5. If Something Goes Wrong**
+
+Don’t panic — errors are a normal part of learning programming.
+
+Here are the most common beginner issues and how to fix them:
+
+| Error Message                                    | Meaning                          | How to Fix                                                   |
+| ------------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
+| `SyntaxError: EOL while scanning string literal` | Missing quote                    | Make sure your quotes match                                  |
+| `NameError: name 'print' is not defined`         | You typed `prnit`, `pritn`, etc. | Fix the spelling                                             |
+| `python3: command not found`                     | Python not added to PATH         | Reinstall Python (Windows) or use `py`                       |
+| `ModuleNotFoundError`                            | Running the wrong file           | Check the filename and directory                             |
+| Nothing happens                                  | You clicked the wrong run button | Make sure you're running **hello_world.py**, not the project |
+
+If you can’t fix the error, **copy the full message** and bring it to lab or office hours — error messages are extremely informative once you learn how to read them.
+
