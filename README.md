@@ -12,7 +12,7 @@ This repository contains my personal notes, rewritten examples, and practice exe
 
 It follows the structure of the NYU course, covering the follwoing:
 
-[Leccture 0: Intalling Python and an IDE](Lecture_0/Lecture_0:_Installing_Python_and_Choosing_an_IDE)
+[Leccture 0: Intalling Python and an IDE](Lectures/Lecture_0/Lecture_0:_Installing_Python_and_Choosing_an_IDE)
 
 
 
