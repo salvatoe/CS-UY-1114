@@ -12,7 +12,7 @@ This repository contains my personal notes, rewritten examples, and practice exe
 
 It follows the structure of the NYU course, covering the follwoing:
 
-[Leccture 1: Introduction to Python, Variables and Data Types](CS-UY-1114/Lecture%200:%20Installing%20Python%20and%20Choosing%20an%20IDE)
+[Leccture 1: Introduction to Python, Variables and Data Types](Lecture 1/Lecture_0:_Installing_Python_and_Choosing_an_IDE)
 The goal is to provide an organized, accessible, and student-friendly companion to the course material.
 
 ---
