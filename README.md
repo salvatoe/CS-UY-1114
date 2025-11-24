@@ -16,7 +16,7 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 1: Parts of a program, Variables, Basic Data Types](Lectures/Lecture_1/Lecture_1:_Parts_of_a_program,_Variables,_Basic_Data_Types.md)
 
-[Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22)
+[Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
 The goal is to provide an organized, accessible, and student-friendly companion to the course material.
