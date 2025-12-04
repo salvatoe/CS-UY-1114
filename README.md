@@ -28,6 +28,8 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 7: Iterative Statements: For Loops](Lectures/Lecture7/Lecture7.md)
 
+[Lecture 8: Nexted Iterative Statements](Lectures/Lecture8/Lecture8.md)
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
