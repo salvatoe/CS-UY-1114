@@ -36,6 +36,8 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 11: Functions](Lectures/Lecture11/Lecture11.md)
 
+Lecture 12: Exam Review
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
