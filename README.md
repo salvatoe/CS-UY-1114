@@ -18,6 +18,8 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 2: Basic Operations and Expressions](Lectures/Lecture2/Lecture2.md)
 
+[Lecture 3Python Modules, Random Numbers, and the Math Library](Lectures/Lecture3/Lecture3.md)
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
