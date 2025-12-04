@@ -273,23 +273,6 @@ The outer quotes determine which inner quotes are allowed safely.
 
 ---
 
-## **Using f-Strings with Dictionaries and Function Calls**
-
-```python
-student = {"name": "Lia", "grade": 97}
-print(f"{student['name']} scored {student['grade']}")
-```
-
-```python
-def double(x):
-    return x * 2
-
-num = 21
-print(f"Double of {num} is {double(num)}")
-```
-
----
-
 # **8. When to Use Each Formatting Method**
 
 ### Use f-strings when:
@@ -305,21 +288,4 @@ print(f"Double of {num} is {double(num)}")
 * You are passing format strings into functions
 * You need older-version Python compatibility
 
----
-
-# **9. Final Example: Sale Price Program (with f-Strings)**
-
-```python
-def main():
-    cost = float(input("Enter item cost: "))
-    discount = float(input("Enter discount (percentage): "))
-    
-    discount = discount / 100
-    reduction = cost * discount
-    sale_price = cost - reduction
-    
-    print(f"\nThe sale price is ${sale_price:.2f}")
-
-main()
-```
 
