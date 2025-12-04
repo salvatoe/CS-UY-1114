@@ -10,8 +10,7 @@ This lecture introduces essential tools that let your programs *compute*, *compa
 
 # **Data Type Conversion**
 
-Python provides several *built-in functions* that convert one data type into another
-(slide page 3). 
+Python provides several *built-in functions* that convert one data type into another. 
 
 ### **Common Conversion Functions**
 
@@ -22,7 +21,7 @@ Python provides several *built-in functions* that convert one data type into ano
 * `str(x)` – converts `x` to a string
 * `round(x)` – rounds to the nearest whole number (ties go to even)
 
-### **Examples (from slide page 4)**
+### **Examples*
 
 
 
@@ -46,7 +45,7 @@ round(18.5)      # 18   # rounds to even
 
 # **Arithmetic Operations**
 
-Python supports standard arithmetic operators (slide page 5). 
+Python supports standard arithmetic operators . 
 
 | Operator | Meaning        | Example      | Result |
 | -------- | -------------- | ------------ | ------ |
@@ -62,7 +61,7 @@ Python supports standard arithmetic operators (slide page 5).
 
 ## **Integer (Floor) Division**
 
-Floor division **rounds down** to the nearest integer (slide page 6).
+Floor division **rounds down** to the nearest integer .
 
 
 ```python
@@ -75,7 +74,7 @@ Floor division **rounds down** to the nearest integer (slide page 6).
 
 ## **Modulo Operator (%)**
 
-The modulo operator gives the **remainder** (slide page 7).
+The modulo operator gives the **remainder** .
 
 
 The key identity:
@@ -88,7 +87,7 @@ x == (x // y) * y + (x % y)
 
 # **Input from the User**
 
-To get input from a user, Python uses the `input()` function (slide page 8).
+To get input from a user, Python uses the `input()` function .
 
 
 * `input()` always returns a **string**
@@ -130,7 +129,7 @@ main()
 
 # **Augmented Assignment Statements**
 
-Python provides shorthand operators (slide page 11).
+Python provides shorthand operators.
 
 
 | Expression | Equivalent To |
@@ -143,7 +142,7 @@ Python provides shorthand operators (slide page 11).
 | `i %= j`   | `i = i % j`   |
 | `i **= j`  | `i = i ** j`  |
 
-Example (slide page 12):
+Example:
 
 
 ```python
@@ -156,14 +155,14 @@ print(x)     # 8.88
 
 # **Mixed-Type Expressions**
 
-Python automatically determines result types (slide page 13).
+Python automatically determines result types .
 
 
 * `float + float` → float
 * `int + int` → int (except `/`, which yields float)
 * `int + float` → float
 
-Examples (slide page 14):
+Examples:
 
 
 ```python
@@ -202,11 +201,11 @@ i = j = k = 1
 
 # **Booleans**
 
-A **Boolean** represents truth values: `True` and `False` (slide 16).
+A **Boolean** represents truth values: `True` and `False`.
 
 Boolean expressions evaluate to a Boolean.
 
-### Examples (slide page 17)
+### Examples
 
 
 
@@ -219,15 +218,14 @@ bool("hi")  # True
 
 ## **Booleans Stored as Integers**
 
-Internally: `True` → `1`, `False` → `0` (slide 18).
+Internally: `True` → `1`, `False` → `0`.
 
 
 ---
 
 # **Boolean Context**
 
-In any Boolean context (like an `if` statement):
-(slide page 19) 
+In any Boolean context (like an `if` statement): 
 
 * `False`, `0`, `""`, `None` → treated as **False**
 * Everything else → **True**
@@ -236,7 +234,7 @@ In any Boolean context (like an `if` statement):
 
 # **Comparison Operators**
 
-Python supports the following comparison operators (slide page 20).
+Python supports the following comparison operators.
 
 
 | Operator | Meaning               |
@@ -254,8 +252,7 @@ Each expression evaluates to a Boolean value.
 
 # **Float Comparison Caution**
 
-Due to floating-point precision limits, exact comparison may fail
-(slide page 21). 
+Due to floating-point precision limits, exact comparison may fail. 
 
 Example:
 
