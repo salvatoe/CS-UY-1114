@@ -38,6 +38,9 @@ It follows the structure of the NYU course, covering the follwoing:
 
 Lecture 12: Exam Review
 
+[Lecture 13: Working With Files](Lectures/Lecture13/Lecture13.md)
+
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
