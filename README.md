@@ -20,6 +20,12 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 3: Python Modules, Random Numbers, and the Math Library](Lectures/Lecture3/Lecture3.md)
 
+[Lecture 4: Control Flow, Booleans and Expressions](Lectures/Lecture4/Lecture4.md)
+
+[Lecture 5: Selection Statements](Lectures/Lecture5/Lecture5.md)
+
+[Lecture 6: Repetition Structures](Lectures/Lecture6/Lecture6.md)
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
