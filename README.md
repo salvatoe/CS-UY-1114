@@ -32,6 +32,9 @@ It follows the structure of the NYU course, covering the follwoing:
 
 [Lecture 9: Introduction to Strings and String Operations](Lectures/Lecture9/Lecture9.md)
 
+[Lecture 10: String Slicing and String Formatting](Lectures/Lecture10/Lecture10.md)
+
+
 [Lecture 22: Object Oriented Programing](Lectures/Lecture_22/Lecture_22:_OOP1.md)
 
 
