@@ -84,6 +84,23 @@ last_name = name[sep_index + 1:]
 This works regardless of the lengths of the names.
 As long as there is exactly one space, this method is robust.
 
+A less common, but still occasionally useful alternative is the `index()` method.
+`index()` is fundamentally similar to `find()`, but with one key difference:
+
+* `find(sub)` → returns `-1` if `sub` is **not** found
+* `index(sub)` → **raises a `ValueError`** if `sub` is **not** found
+
+For example:
+
+```python
+name = "JamesSmith"
+
+pos1 = name.find(" ")    # returns -1
+pos2 = name.index(" ")   # raises ValueError: substring not found
+```
+
+Because of this, `find()` is usually safer for user input, while `index()` can be helpful when you *expect* the separator to be present. 
+
 ---
 
 # **3. String Formatting**
